@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="media/icon.png" width="112" alt="" />
-
 # Kiberclass
 
 **Компьютерный класс в одном окне**
@@ -10,16 +8,9 @@
 раздаёт материалы и собирает работы. Всё работает внутри сети класса:
 без интернета, без сервера и без настройки.
 
-<a href="https://github.com/kiberclass/releases/releases/latest"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-Windows%2010%20%D0%B8%2011-f7c90e?style=for-the-badge&labelColor=211e22" alt="Скачать для Windows 10 и 11" /></a>
+<a href="https://github.com/kiberclass/releases/releases/latest"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-Windows%2010%20%D0%B8%2011-303030?style=for-the-badge&labelColor=1d1d1d" alt="Скачать для Windows 10 и 11" /></a>
 &nbsp;
-<a href="https://github.com/kiberclass/releases/releases/latest"><img src="https://img.shields.io/github/v/release/kiberclass/releases?style=for-the-badge&label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=05b9be&labelColor=211e22" alt="Последняя версия" /></a>
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/class-dark.gif" />
-  <img src="media/class-light.gif" alt="Консоль учителя: экраны класса вживую, экран ученика открывается крупно" />
-</picture>
+<a href="https://github.com/kiberclass/releases/releases/latest"><img src="https://img.shields.io/github/v/release/kiberclass/releases?style=for-the-badge&label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=303030&labelColor=1d1d1d" alt="Последняя версия" /></a>
 
 </div>
 
@@ -52,11 +43,6 @@ Windows SmartScreen покажет предупреждение. Нажмите 
 
 ## Показ своего экрана
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/broadcast-dark.gif" />
-  <img src="media/broadcast-light.gif" alt="Показ экрана учителя всему классу" />
-</picture>
-
 Экран учителя уходит всему классу или выбранным ученикам. В режиме
 «Демонстрация» он встаёт на весь экран, как проектор, и мышь с клавиатурой
 ученика не действуют. В режиме «В окне» ученик может повторять за учителем в
@@ -64,21 +50,11 @@ Windows SmartScreen покажет предупреждение. Нажмите 
 
 ## Внимание на учителя
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/lock-dark.gif" />
-  <img src="media/lock-light.gif" alt="Блокировка всех компьютеров класса" />
-</picture>
-
 Одна кнопка закрывает экраны учеников и выключает мышь с клавиатурой. На экране
 остаётся ваш текст: «Смотрим на доску», «Слушаем задание». Блокировка
 переживает перезагрузку, а снимается той же кнопкой.
 
 ## Сайты и программы у всех сразу
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/sites-dark.gif" />
-  <img src="media/sites-light.gif" alt="Открыть сайт на всех компьютерах" />
-</picture>
 
 Нужный сайт открывается на всех компьютерах за один щелчок, без диктовки адреса.
 Программы берутся прямо из меню «Пуск» учеников: консоль покажет, где
@@ -86,21 +62,11 @@ Windows SmartScreen покажет предупреждение. Нажмите 
 
 ## Работы сами приходят к учителю
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/files-dark.gif" />
-  <img src="media/files-light.gif" alt="Сбор работ с компьютеров учеников" />
-</picture>
-
 Попросите сдать работу, и у каждого ученика откроется окно: он перетащит туда
 свой файл. Работы лягут в папку урока на компьютере учителя, у каждого ученика
 своя. Материалы к уроку раздаются так же просто: перетащите файлы на консоль.
 
 ## Новый компьютер за минуту
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/pairing-dark.gif" />
-  <img src="media/pairing-light.gif" alt="Подключение компьютеров по коду" />
-</picture>
 
 Консоль показывает шестизначный код, ученик вводит его в своей программе, и
 компьютер появляется в классе. Одним кодом подключается весь класс, а чужой
